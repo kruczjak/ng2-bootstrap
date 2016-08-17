@@ -1,6 +1,6 @@
 {
-  "name": "ng2-bootstrap",
-  "version": "1.0.24",
+  "name": "ng2-bootstrap-kruczjak",
+  "version": "1.1.0",
   "description": "angular2 bootstrap components",
   "scripts": {
     "typedoc": "typedoc",
@@ -39,11 +39,10 @@
     "angularjs",
     "twitter-bootstrap"
   ],
-  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ng2-bootstrap.git"
+    "url": "git+ssh://git@github.com/kruczjak/ng2-bootstrap.git"
   },
   "bugs": {
     "url": "https://github.com/valor-software/ng2-bootstrap/issues"
@@ -53,10 +52,10 @@
     "moment": "2.14.1"
   },
   "peerDependencies": {
-    "@angular/common": "2.0.0-rc.4",
-    "@angular/compiler": "2.0.0-rc.4",
-    "@angular/core": "2.0.0-rc.4",
-    "@angular/forms": "0.2.0"
+    "@angular/common": "2.0.0-rc.5",
+    "@angular/compiler": "2.0.0-rc.5",
+    "@angular/core": "2.0.0-rc.5",
+    "@angular/forms": "0.3.0"
   },
   "devDependencies": {
     "@angular/common": "2.0.0-rc.4",
